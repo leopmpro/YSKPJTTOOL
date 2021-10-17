@@ -1,0 +1,12 @@
+C:\Users\30000147\source\repos\YSKPJTTool\bin\Debug\YSKPJTTool.exe.config
+C:\Users\30000147\source\repos\YSKPJTTool\bin\Debug\YSKPJTTool.exe
+C:\Users\30000147\source\repos\YSKPJTTool\bin\Debug\YSKPJTTool.pdb
+C:\Users\30000147\source\repos\YSKPJTTool\bin\Debug\YSKPJTTool.xml
+C:\Users\30000147\source\repos\YSKPJTTool\obj\Debug\YSKPJTTool.vbprojAssemblyReference.cache
+C:\Users\30000147\source\repos\YSKPJTTool\obj\Debug\YSKPJTTool.Resources.resources
+C:\Users\30000147\source\repos\YSKPJTTool\obj\Debug\YSKPJTTool.vbproj.GenerateResource.cache
+C:\Users\30000147\source\repos\YSKPJTTool\obj\Debug\YSKPJTTool.vbproj.CoreCompileInputs.cache
+C:\Users\30000147\source\repos\YSKPJTTool\obj\Debug\YSKPJTTool.exe
+C:\Users\30000147\source\repos\YSKPJTTool\obj\Debug\YSKPJTTool.xml
+C:\Users\30000147\source\repos\YSKPJTTool\obj\Debug\YSKPJTTool.pdb
+C:\Users\30000147\source\repos\YSKPJTTool\obj\Debug\YSKPJTTool.Form1.resources
